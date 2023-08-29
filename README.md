@@ -9,4 +9,10 @@
 🎯 Goal Clarity: Explore the process of setting clear and achievable goals for your security audit. Learn how to align your objectives with the unique needs of your organization, whether it's uncovering vulnerabilities, assessing compliance, or enhancing overall security posture.
 
 ⚖️ Risk Assessment Mastery: Gain expertise in conducting thorough risk assessments as part of your security audit process. Discover methodologies for identifying, evaluating, and prioritizing risks, allowing you to allocate resources effectively to mitigate potential threats.
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<img width="585" alt="risk assessment" src="https://github.com/LeroyClayton/Secuirty-Audit-Practice/assets/118240301/fb685564-e545-473c-b099-6c150af288a2">
