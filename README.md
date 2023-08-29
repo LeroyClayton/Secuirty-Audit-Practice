@@ -15,4 +15,30 @@
 <br />
 <br />
 <br />
+Goals:
+
+-Improve Botium Toys’ current security posture by aligning to industry best practices (e.g., adhere to the NIST CSF, implement concept of least permissions)
+
+-Provide mitigation recommendations (i.e., controls, policies, documentation), based on current risks
+
+-Identify compliance regulations Botium Toys must adhere to, primarily based on where we conduct business and how we accept payments
+
+-To review the full report, read the Botium Toys: Audit scope and goals document
+
+Risks:
+
+-Inadequate management of assets
+
+-Proper controls are not in place
+
+-May not be compliant with U.S. and international regulations and guidelines
+
+-Current risk score is 8/10 (high), due to a lack of controls and adherence to compliance regulations and standards
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <img width="585" alt="risk assessment" src="https://github.com/LeroyClayton/Secuirty-Audit-Practice/assets/118240301/fb685564-e545-473c-b099-6c150af288a2">
